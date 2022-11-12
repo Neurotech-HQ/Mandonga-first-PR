@@ -12,4 +12,6 @@ This repository is to help tanzanian developers make their first opensource cont
 - **Justine Mahinyila**: *I am fun at parties, btw, I just shared the image for the event :)*
 - **Nasma**: *I am always serious*
 - **Edgar Nyandoro**: *I do Malware analysis* 
+- **Junior**: *🐦 follow me on twitter [https://twitter.com/___trm__](@___trm__)* 
+- **Aliy**: *Im a biginner*
 - **Abdulaziz Sadi** : *I like hiking at night*
