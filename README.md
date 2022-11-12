@@ -17,4 +17,5 @@ This repository is to help tanzanian developers make their first opensource cont
 - **Junior**: *🐦 follow me on twitter [https://twitter.com/___trm__](@___trm__)* 
 - **Aliy**: *Im a biginner*
 - **Abdulaziz Sadi** : *I like hiking at night*
+- **Von Shirco**: *I like engaging in forums*
 
