@@ -9,6 +9,7 @@ This repository is to help tanzanian developers make their first opensource cont
 
 - **Full Name** : *The fun fact about you*
 - **Kalebu Jordan**: *I am always serious* 
+- **Ernest Munishi**: *I always don't know what is happening*
 - ** Kai Karoma**: *I love game drive in the wild!*
 - **GODFREY MUSSA**: *Swahili developer*
 - **Iam 'sani'** : *Iam a Designer,creating stylish websites and animations*
