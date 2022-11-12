@@ -8,3 +8,5 @@ This repository is to help tanzanian developers make their first opensource cont
 
 - **Full Name** : *The fun fact about you*
 - **Kalebu Jordan**: *I am always serious* 
+
+- **Nasma**: *I am always serious*
