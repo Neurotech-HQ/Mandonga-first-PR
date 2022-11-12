@@ -12,4 +12,4 @@ This repository is to help tanzanian developers make their first opensource cont
 - **Nasma**: *I am always serious*
 - **Edgar Nyandoro**: *I do Malware analysis* 
 - **Abdulaziz Sadi** : *I like hiking at night*
-
+- **Williamu**: *A bit serious*
