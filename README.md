@@ -1,11 +1,12 @@
 # Mandonga-first-PR
 
-This repository is to help tanzanian developers make their first opensource contribution 
+<img width="300px" src="./assets/img/mandonga-logo.png" align="center" alt="Tukumbushe-Logo" />
 
-## Write your name and the fun fact about you 
+This repository is to help tanzanian developers make their first opensource contribution
 
-> Here is an example Kalebu_jordan: I'm always serious 
+## Write your name and the fun fact about you
 
+> Here is an example Kalebu_jordan: I'm always serious
 
 - **Full Name** : *The fun fact about you*
 - **Kalebu Jordan**: *I am always serious* 
