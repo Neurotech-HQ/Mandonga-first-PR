@@ -6,4 +6,4 @@ This repository is to help tanzanian developers make their first opensource cont
 
 > Here is an example Kalebu_jordan: I'm always serious 
 
--** Abdulaziz Sadi** : *I like hiking at night*
+- **Abdulaziz Sadi** : *I like hiking at night*
