@@ -38,3 +38,17 @@
 - **Mgasa Lucas** : _I train AI_
 - **EDGAR JN**: _I'm in love with Terminal_
 - **Williamu**: _A bit serious_
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/Neurotech-HQ/Mandonga-first-PR.svg?style=for-the-badge
+[contributors-url]: https://github.com/Neurotech-HQ/Mandonga-first-PR/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Neurotech-HQ/Mandonga-first-PR.svg?style=for-the-badge
+[forks-url]: https://github.com/Neurotech-HQ/Mandonga-first-PR/network/members
+[stars-shield]: https://img.shields.io/github/stars/Neurotech-HQ/Mandonga-first-PR.svg?style=for-the-badge
+[stars-url]: https://github.com/Neurotech-HQ/Mandonga-first-PR/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Neurotech-HQ/Mandonga-first-PR.svg?style=for-the-badge
+[issues-url]: https://github.com/Neurotech-HQ/Mandonga-first-PR/issues
+[license-shield]: https://img.shields.io/github/license/Neurotech-HQ/Mandonga-first-PR.svg?style=for-the-badge
+[license-url]: https://github.com/Neurotech-HQ/Mandonga-first-PR/blob/master/LICENSE.txt
