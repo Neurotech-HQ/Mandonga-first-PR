@@ -38,6 +38,7 @@
 - **Mgasa Lucas** : _I train AI_
 - **EDGAR JN**: _I'm in love with Terminal_
 - **Williamu**: _A bit serious_
+- **Mavula**: *Hello everybody I am the last one*
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
