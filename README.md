@@ -1,25 +1,40 @@
-# Mandonga-first-PR
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
-<img width="300px" src="./assets/img/mandonga-logo.png" align="center" alt="Tukumbushe-Logo" />
+<br />
+<div align="center">
+  <a href="https://github.com/makindajack/Mandonga-first-PR">
+    <img src="./assets/img/mandonga-logo.png" alt="Mtu-kazi" width="400" height="auto">
+  </a>
+  <h3 align="center">Mandonga First-PR</h3>
 
-This repository is to help tanzanian developers make their first opensource contribution
+  <p align="center">
+    This repository is to help tanzanian developers make their first opensource contribution
+    <br />
+    <a href="https://github.com/Neurotech-HQ/Mandonga-first-PR/issues">Report Bug</a>
+  </p>
+</div>
 
 ## Write your name and the fun fact about you
 
 > Here is an example Kalebu_jordan: I'm always serious
 
-- **Full Name** : *The fun fact about you*
-- **Kalebu Jordan**: *I am always serious* 
-- **Ernest Munishi**: *I always don't know what is happening*
-- ** Kai Karoma**: *I love game drive in the wild!*
-- **GODFREY MUSSA**: *Swahili developer*
-- **Iam 'sani'** : *Iam a Designer,creating stylish websites and animations*
-- **Justine Mahinyila**: *I am fun at parties, btw, I just shared the image for the event :)*
-- **Nasma**: *I am always serious*
-- **Edgar Nyandoro**: *I do Malware analysis* 
-- **Junior**: *🐦 follow me on twitter [https://twitter.com/___trm__](@___trm__)* 
-- **Aliy**: *Im a biginner*
-- **Abdulaziz Sadi** : *I like hiking at night*
-- **Mgasa Lucas** : *I train AI*
-- **EDGAR JN**: *I'm in love with Terminal*
-- **Williamu**: *A bit serious*
+- **Full Name** : _The fun fact about you_
+- **Kalebu Jordan**: _I am always serious_
+- **Ernest Munishi**: _I always don't know what is happening_
+- ** Kai Karoma**: _I love game drive in the wild!_
+- **GODFREY MUSSA**: _Swahili developer_
+- **Iam 'sani'** : _Iam a Designer,creating stylish websites and animations_
+- **Justine Mahinyila**: _I am fun at parties, btw, I just shared the image for the event :)_
+- [**Jackson Makinda**](https://twitter.com/makindajack) - _I am UI Designer, Weapon - Pen tool, Hiphop bloodline 😎_
+- **Nasma**: _I am always serious_
+- **Edgar Nyandoro**: _I do Malware analysis_
+- **Junior**: \_🐦 follow me on twitter [https://twitter.com/**\_trm**](@___trm__)\_
+- **Aliy**: _Im a biginner_
+- **Abdulaziz Sadi** : _I like hiking at night_
+- **Mgasa Lucas** : _I train AI_
+- **EDGAR JN**: _I'm in love with Terminal_
+- **Williamu**: _A bit serious_
