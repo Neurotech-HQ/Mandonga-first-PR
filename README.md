@@ -23,3 +23,4 @@ This repository is to help tanzanian developers make their first opensource cont
 - **Mgasa Lucas** : *I train AI*
 - **EDGAR JN**: *I'm in love with Terminal*
 - **Williamu**: *A bit serious*
+- **Mavula**: *Hello everybody I am the last one*
