@@ -39,6 +39,7 @@
 - **EDGAR JN**: _I'm in love with Terminal_
 - **Williamu**: _A bit serious_
 - **Mavula**: *Hello everybody I am the last one*
+- **Jovine Mutelani**: _I do Python_
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
