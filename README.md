@@ -40,6 +40,7 @@
 - **Williamu**: _A bit serious_
 - **Mavula**: *Hello everybody I am the last one*
 - **Jovine Mutelani**: _I do Python_
+- [**Elia Mkumbo**](https://github.com/Era360): _One of the few developers who can hoop 🏀_
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
